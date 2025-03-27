@@ -1,16 +1,16 @@
-###LMAX Disruptor
+###LMAX Disruptor###
 A High Performance Inter-Thread Messaging Library
 
-###Introduction
+###Introduction###
 <a href="https://github.com/LMAX-Exchange/disruptor/wiki/Introduction"  target="_blank">disruptor wiki</a> <br>
 
-###Examples
+###Examples###
 What we should do: <br>
 1. Define our ringBuffer[], BufferSize and so on <br>
 2. Define a consumer class to eat data, we should implement function 'Consume' <br>
 3. New a 'controller', and then, running the consumers and producers. <br>
 4. Everything is done! <br>
-#####1. one producer and one consumer
+#####1. one producer and one consumer#####
 ```
 // 1: main
 // define our ringBuffer
