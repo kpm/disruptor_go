@@ -68,7 +68,7 @@ Also, there are some other examples:  one producer and multi consumers,
 multi producers and one consumer, multi producers and multi consumers
 
 
-###Reference
+### Reference
 The project's implement is imitate from
 <a href="https://github.com/LMAX-Exchange/disruptor"  target="_blank">disruptor 1</a> and
 <a href="https://github.com/smartystreets/go-disruptor"  target="_blank">disruptor 2</a>
